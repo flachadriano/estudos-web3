@@ -82,7 +82,7 @@ Este roadmap de estudos focado em Web 3 é baseado neste vídeo: https://youtu.b
 - Deploy
 - Configuração na Carteira
 
-## Dapps
+## DApps
 
 ### Tópico I: Web3
 - Web1 x Web2 x Web3
@@ -154,7 +154,7 @@ Este roadmap de estudos focado em Web 3 é baseado neste vídeo: https://youtu.b
 - Banco de Dados
 - Smart Contract de Intermediação
 
-## Defi
+## DeFi
 
 ### Tópico I: Protocolos
 - Fundamentos de DeFi
