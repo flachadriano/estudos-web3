@@ -6,6 +6,8 @@ Em seguida, focar em entender como funciona o Bitcoin, no [site oficial](https:/
 
 Enquanto estuda os conceitos, implemente eles da melhor forma.
 
+# Bitcoin
+
 ## Entendimento do [Whitepaper](./bitcoin-whitepaper.pdf)
 
 Foi criado com a intenção de garantir uma transação não reversível.
