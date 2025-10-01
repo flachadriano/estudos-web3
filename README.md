@@ -1,8 +1,10 @@
 # Roadmap
 
-Este roadmap de estudos focado em Web 3 é baseado neste vídeo: https://youtu.be/RbmUYb7n7lc?si=htESj0Hn8K8giRaT
+Este roadmap de estudos focado em Web 3 é baseado neste vídeo: [Roadmap de Estudos para Dev Web3](https://youtu.be/RbmUYb7n7lc?si=htESj0Hn8K8giRaT)
 
 ## Blockchain
+
+[Resultado dos estudos deste tópico](./01-blockchain/README.md)
 
 ### Tópico: Blockchain Bitcoin
 - Fundamentos de Criptomoedas
