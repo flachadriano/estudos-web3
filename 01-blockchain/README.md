@@ -47,3 +47,7 @@ Um bloco é composto por:
   - A regra para gerar o hash do bloco atual é atender com que o hash atual tenha uma quantidade mínima de zeros a esquerda
   - Quanto mais zeros a esquerda, maior a prova de trabalho necessária
 - O Hash do bloco atual, que é gerado utilizando o SHA-256 colocando todas as infos descritas acima
+
+# Exercício
+
+Como exemplo prático foi criado o projeto: [Simple-Blockchain-Example](https://github.com/flachadriano/simple-blockchain-example)
